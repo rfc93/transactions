@@ -1,6 +1,7 @@
 Project made By Raul Fernandez del Cerro.
 
 This project use the followins dependencies:
+ - Java 11, Spring Boot 2.2.6, JPA/Hibernate.
  - Embedded H2 database to store transactions.
  - Dozer to conver from entities to dto objects.
  - Lombok to auto-generate getter/setter and constructors.
